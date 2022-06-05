@@ -19,7 +19,8 @@
 
 -   **KURULAN DEVRE**
 
-    ![DEVRE](images/4.jpeg)
+   ![4](https://user-images.githubusercontent.com/67148688/172067904-a8dac125-038f-46ab-9534-68246c10138e.jpeg)
+
 
 -   **OLUŞABİLECEK DURUMLAR**
 
