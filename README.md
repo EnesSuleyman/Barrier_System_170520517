@@ -34,7 +34,7 @@ Bu durumda Labview arayüzünde gözükecek olan durum aşağıdaki gibidir
 ![1](https://user-images.githubusercontent.com/67148688/172067954-cf29cd87-633c-447e-925a-82c1a430901f.jpg)
 
 
-    **DURUM 2 :** Aracımızın konumunun sensöre olan uzaklığının 20cm'den küçük olup bariyer sisteminin açılması.
+   **DURUM 2 :** Aracımızın konumunun sensöre olan uzaklığının 20cm'den küçük olup bariyer sisteminin açılması.
 
 ![açık](https://user-images.githubusercontent.com/67148688/172067966-17c52e75-5ca4-4a0d-a7e6-dcbd23d4ed8f.jpg)
 
