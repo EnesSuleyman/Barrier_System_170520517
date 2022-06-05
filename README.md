@@ -26,16 +26,20 @@
 
     **DURUM 1:** Aracımızın konumunun sensöre olan uzaklığının 20cm'den büyük olup bariyer sisteminin açılmaması.
 
-![bariyer_kapalı](images/kapal%C4%B11.jpg)
+![kapalı1](https://user-images.githubusercontent.com/67148688/172067933-2bbf043a-5a0a-4875-b097-8265986cd075.jpg)
+
 
 Bu durumda Labview arayüzünde gözükecek olan durum aşağıdaki gibidir
 
-![kapalı](images/1-02.jpg)
+![1](https://user-images.githubusercontent.com/67148688/172067954-cf29cd87-633c-447e-925a-82c1a430901f.jpg)
 
-**DURUM 2 :** Aracımızın konumunun sensöre olan uzaklığının 20cm'den küçük olup bariyer sisteminin açılması.
 
-![açik1](images/a%C3%A7%C4%B1k.jpg)
+    **DURUM 2 :** Aracımızın konumunun sensöre olan uzaklığının 20cm'den küçük olup bariyer sisteminin açılması.
+
+![açık](https://user-images.githubusercontent.com/67148688/172067966-17c52e75-5ca4-4a0d-a7e6-dcbd23d4ed8f.jpg)
+
 
 Sensöre olan uzaklığımız 17cm olmasından ötürü bariyerimiz açılacaktır. Labview'de gözükecek olan arayüzümüz aşağıdaki gibi olacaktır.
 
-![lab2](images/2.jpg)
+![2](https://user-images.githubusercontent.com/67148688/172067977-0b26f16e-c480-4d09-8c0b-e13fc85da5ba.jpg)
+
